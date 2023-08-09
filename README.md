@@ -32,7 +32,7 @@ __Parte 4: Rodando Script pra testar__
 
 Agora entre na IP+PORTA do seu server no diretório /server/online e veja se retornou algum número,exemplo:
 
-http://149.56.184.155:8110/server/online
+http://ipDaSuaMaquina:PortaQueVocêEscolheu/server/online
 
 __Parte 5: Atualizando pelo cron__
 
