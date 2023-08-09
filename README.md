@@ -1,4 +1,4 @@
-# StatusServer
+# onlineUsers
 __Parte 1 - Baixando Script__ 
 
 ```cd /root && wget https://raw.githubusercontent.com/hyvozin/onlineUsers/main/onlineapp.sh && chmod +x onlineapp.sh```
